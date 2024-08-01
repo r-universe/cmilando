@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "WhiteLabRt"]
+	path = WhiteLabRt
+	url = https://github.com/cmilando/whitelabrt
 [submodule "linelistBayes"]
 	path = linelistBayes
 	url = https://github.com/cmilando/linelistbayes
